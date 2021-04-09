@@ -11,7 +11,7 @@ A aplicação estará disponível no endereço http://localhost:3000.
 
 ---
 
-## Features
+## Techs
 
 *NodeJs - Express* -
 *Sqlite3* -

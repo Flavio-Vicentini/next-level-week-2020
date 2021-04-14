@@ -1,6 +1,7 @@
 <p align="center">
 <img src="https://github.com/Flavio-Vicentini/NextLevelWeek/blob/master/public/assets/home-readme2.png" alt="logo" width="600" height="400"/>
 </p>
+
 # Next Level Week
 
 Projeto realizado no evento Next Level Week da Rockeseat. Um site completo utilizando HTML, CSS e Javascript que realiza cadastro de pontos de coletas de resíduos por entidades interessadas. Para isso, foi utilizado NodeJS com Express para o backend e Sqlite3 para persistência dos dados.
